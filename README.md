@@ -1,5 +1,5 @@
 # MachinLearningProject: Hong Kong Daily Minimum Temperature Forecasting with RNN & LSTM
-This is a deep learning project that forecasts Hong Kong's daily minimum grass temperature in 2025 using Simple RNN and LSTM models, trained on historical data (1947–2024) from the Hong Kong Observatory (HKO). \
+This is a deep learning project that forecasts Hong Kong's daily minimum grass temperature in 2025 using Simple RNN and LSTM models, trained on historical data (1947–2024) from the Hong Kong Observatory (HKO). 
 
 Uses a 60-day sliding window to predict the next day’s temperature. Includes hyperparameter tuning (Keras Tuner), early stopping, bootstrap confidence intervals, and comprehensive error analysis.
 
