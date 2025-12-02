@@ -1,6 +1,16 @@
 # MachinLearningProject
 MachinLearningGroupProject
 ## Requirements
-
+numpy 2.1.2
+pandas 2.2.3
+matplotlib 3.9.2
+scipy 1.14.1
+scikit-learn 1.5.2
+tensorflow 2.17.0
+keras-tuner 1.4.7
+meteostat 1.6.8
 ## Running steps
 For local environments:
+run pip install -r requirements.txt
+For colab / juypter environments:
+use the .ipynb file and the cells
