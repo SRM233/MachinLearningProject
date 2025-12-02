@@ -1,5 +1,11 @@
 # MachinLearningProject
-MachinLearningGroupProject
+MachinLearningGroupProject \
+The dataset used for training are from the open data libary of HKO:\
+https://data.gov.hk/en-data/dataset/hk-hko-rss-daily-grass-min-temp
+## Contents
+- an .ipynb file for colab / juypter environments \
+- the trained model (in /model)
+- a .py script
 ## Requirements
 numpy 2.1.2 \
 pandas 2.2.3 \
