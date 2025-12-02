@@ -8,9 +8,11 @@ scipy 1.14.1 \
 scikit-learn 1.5.2 \
 tensorflow 2.17.0 \
 keras-tuner 1.4.7 \
-meteostat 1.6.8 \
+meteostat 1.6.8 
 ## Running steps
 For local environments: \
-run pip install -r requirements.txt \
+1. run pip install -r requirements.txt in the terminal \
+2. if you want to train your own model, delete/ rename the model folder \
+3. run .py scripts
 For colab / juypter environments: \
-use the .ipynb file and the cells \
+use the .ipynb file and run the cells 
